@@ -67,7 +67,7 @@ const Registro = () => {
     <div className="contenedorRegistro">
       <div className="contenedorImgRegistro">
         <div className='posicionImgRegisstro'>
-          <img src='/src/Imagenes/Logo2.png'></img>
+          <img src='./Imagenes/Logo2.png'></img>
         </div>
       </div>
       <div className="Signup_container">
