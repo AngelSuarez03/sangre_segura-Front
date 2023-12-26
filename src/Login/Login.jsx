@@ -3,8 +3,8 @@ import axios from 'axios'
 import { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { Box } from '@mui/material';
-import LoginExitoso from "./Popups/LoginExitoso.jsx"
-import LoginNoExitoso from "./Popups/LoginNoExitoso.jsx"
+import LoginExitoso from "../Popups/LoginExitoso.jsx"
+import LoginNoExitoso from "../Popups/LoginNoExitoso.jsx"
 function Login() {
     const navigate = useNavigate();
     const [cargando, setCargando] = useState(false);
