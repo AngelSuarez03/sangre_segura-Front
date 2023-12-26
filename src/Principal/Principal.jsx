@@ -44,7 +44,7 @@ function Principal(params) {
                     </div>
                 </nav>
                 <div className="hero-section">
-                    <img src="./Imagenes/headerPrincipal.webp" alt="Imagen header pagina principal" className="hero-image" />
+                    <img src="../Imagenes/headerPrincipal.webp" alt="Imagen header pagina principal" className="hero-image" />
                     <div className="hero-text">
                         <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
                     </div>
