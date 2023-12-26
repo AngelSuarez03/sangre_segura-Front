@@ -64,7 +64,7 @@ function Login() {
             <div className="ContenedorLogin">
                 <div className="contenedorImgLogin">
                     <div className='posicionImgLogin'>
-                        <img src='./Imagenes/Logo2.png'></img>
+                        <img src="./Imagenes/Logo.webp" alt="Logo sangre segura"></img>
                     </div>
                 </div>
                 <div className="contenedorDatosLogin">

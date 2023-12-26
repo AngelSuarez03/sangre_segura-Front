@@ -94,7 +94,7 @@ function Donaciones(params) {
                             <div className="informacionDonacion">Nombre: {elemento.nombre}</div>
                             <div className="informacionDonacion">Telefono: {elemento.telefono}</div>
                             <div className="informacionDonacion">Direccion: {elemento.direccion}</div>
-                            <img src={elemento.correo} alt="Imagen Ubicación del hospital" className="estiloimgContenedor"/>
+                            <img src={elemento.correo} alt="Imagen Ubicación del hospital" className="estiloimgContenedorlugar"/>
                         </div>
                     )}
                 </div>
