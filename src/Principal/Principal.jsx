@@ -44,7 +44,7 @@ function Principal(params) {
                     </div>
                 </nav>
                 <div className="hero-section">
-                    <img src="https://th.bing.com/th/id/OIP.r5niLPIKYVt8-1MHb8KGLgHaE7?rs=1&pid=ImgDetMain" alt="Imagen header pagina principal" className="hero-image" />
+                    <img src="./Imagenes/headerPrincipal.webp" alt="Imagen header pagina principal" className="hero-image" />
                     <div className="hero-text">
                         <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit.</h2>
                     </div>
@@ -57,15 +57,15 @@ function Principal(params) {
                     <h2>Título del Contenedor</h2>
                     <div className="image-row">
                         <div className="image">
-                            <img src="https://th.bing.com/th/id/OIP.j5liSvLK18lsGRTja6ZR0QHaJQ?rs=1&pid=ImgDetMain" alt="Imagen Donante 1" />
+                            <img src="./Imagenes/retratoHombrePrincipal.webp" alt="Imagen Donante 1" />
                             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore odio soluta voluptatum sed recusandae quasi expedita eaque, ut est animi, enim voluptates temporibus. Obcaecati quaerat perferendis quo praesentium excepturi incidunt!</p>
                         </div>
                         <div className="image">
-                            <img src="https://th.bing.com/th/id/R.39da3729050bbf37d35c8dbfe9890d2a?rik=oVjSl%2bD8v1Kzqg&pid=ImgRaw&r=0" alt="Imagen Donante 2" />
+                            <img src="./Imagenes/fachadaHospitalPrincipal.webp" alt="Imagen Donante 2" />
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium cupiditate est minus ab non aut enim iusto, reiciendis cumque illo aperiam nam esse vel. Accusantium quasi velit quos vitae dolores.</p>
                         </div>
                         <div className="image">
-                            <img src="https://www.blogdelfotografo.com/wp-content/uploads/2014/09/Libro-Retrato.jpg" alt="Imagen Donante 3" />
+                            <img src="./Imagenes/retratoMujerPrincipal.webp" alt="Imagen Donante 3" />
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus mollitia ipsam enim accusantium voluptatum molestiae perspiciatis? Dolores, sit? Possimus blanditiis suscipit excepturi quos veritatis illo sequi omnis ea nostrum quisquam.</p>
                         </div>
                     </div>
